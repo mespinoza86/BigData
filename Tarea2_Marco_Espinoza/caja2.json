@@ -1,0 +1,158 @@
+{
+	"numero_caja":"2",
+	"compras": [
+	[
+	{
+		"nombre": "Banano",
+		"cantidad":"2",
+		"precio_unitario":"100"
+	},
+	{
+		"nombre": "JugoNaranja",
+		"cantidad":"3",
+		"precio_unitario":"3000"
+	},
+	{
+		"nombre": "Jalea",
+		"cantidad":"6",
+		"precio_unitario":"800"
+	}
+	],
+	[
+	{
+		"nombre": "Sandia",
+		"cantidad":"4",
+		"precio_unitario":"1500"
+	},
+	{
+		"nombre": "Arroz",
+		"cantidad":"4",
+		"precio_unitario":"800"
+	},
+	{
+		"nombre": "Carbon",
+		"cantidad":"4",
+		"precio_unitario":"3000"
+	}	
+	],
+	[
+	{
+		"nombre": "Carbon",
+		"cantidad":"2",
+		"precio_unitario":"3000"
+	},
+	{
+		"nombre": "Pollo",
+		"cantidad":"4",
+		"precio_unitario":"3500"
+	},
+	{
+		"nombre": "Frijoles",
+		"cantidad":"8",
+		"precio_unitario":"1200"
+	}	
+	],
+	[
+	{
+		"nombre": "Sandia",
+		"cantidad":"4",
+		"precio_unitario":"1500"
+	},
+	{
+		"nombre": "Arroz",
+		"cantidad":"4",
+		"precio_unitario":"800"
+	},
+	{
+		"nombre": "Carbon",
+		"cantidad":"4",
+		"precio_unitario":"3000"
+	}	
+	],
+	[
+	{
+		"nombre": "Jalea",
+		"cantidad":"2",
+		"precio_unitario":"800"
+	},
+	{
+		"nombre": "JugoNaranja",
+		"cantidad":"3",
+		"precio_unitario":"3000"
+	},
+	{
+		"nombre": "Uvas",
+		"cantidad":"3",
+		"precio_unitario":"2400"
+	}	
+	],
+	[
+	{
+		"nombre": "Cafe",
+		"cantidad":"3",
+		"precio_unitario":"3500"
+	},
+	{
+		"nombre": "Culantro",
+		"cantidad":"3",
+		"precio_unitario":"400"
+	},
+	{
+		"nombre": "Tomate",
+		"cantidad":"3",
+		"precio_unitario":"800"
+	}	
+	],
+	[
+	{
+		"nombre": "Aguacate",
+		"cantidad":"2",
+		"precio_unitario":"2500"
+	},
+	{
+		"nombre": "Jabon",
+		"cantidad":"3",
+		"precio_unitario":"2300"
+	},
+	{
+		"nombre": "Frijoles",
+		"cantidad":"4",
+		"precio_unitario":"1200"
+	}	
+	],
+	[
+	{
+		"nombre": "brocoli",
+		"cantidad":"3",
+		"precio_unitario":"300"
+	},
+	{
+		"nombre": "Arroz",
+		"cantidad":"3",
+		"precio_unitario":"800"
+	},
+	{
+		"nombre": "Carbon",
+		"cantidad":"2",
+		"precio_unitario":"3000"
+	}	
+	],
+	[
+	{
+		"nombre": "CarnedeRes",
+		"cantidad":"3",
+		"precio_unitario":"5500"
+	},
+	{
+		"nombre": "Uvas",
+		"cantidad":"2",
+		"precio_unitario":"2400"
+	},
+	{
+		"nombre": "JugoNaranja",
+		"cantidad":"3",
+		"precio_unitario":"3000"
+	}	
+	]
+	]
+}

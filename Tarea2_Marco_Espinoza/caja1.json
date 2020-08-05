@@ -1,0 +1,105 @@
+{
+	"numero_caja":"1",
+	"compras": [
+	[
+	{
+		"nombre": "manzana",
+		"cantidad":"3",
+		"precio_unitario":"200"
+	},
+	{
+		"nombre": "brocoli",
+		"cantidad":"2",
+		"precio_unitario":"300"
+	},
+	{
+		"nombre": "Arroz",
+		"cantidad":"5",
+		"precio_unitario":"800"
+	},
+	{
+		"nombre": "Cafe",
+		"cantidad":"6",
+		"precio_unitario":"1800"
+	},
+	{
+		"nombre": "Frijoles",
+		"cantidad":"2",
+		"precio_unitario":"1200"
+	},
+	{
+		"nombre": "Jabon",
+		"cantidad":"2",
+		"precio_unitario":"2300"
+	}
+	],
+	[
+	{
+		"nombre": "Aguacate",
+		"cantidad":"4",
+		"precio_unitario":"2500"
+	},
+	{
+		"nombre": "Tomate",
+		"cantidad":"5",
+		"precio_unitario":"800"
+	},
+	{
+		"nombre": "Culantro",
+		"cantidad":"2",
+		"precio_unitario":"400"
+	}	
+	],
+	[
+	{
+		"nombre": "manzana",
+		"cantidad":"4",
+		"precio_unitario":"200"
+	},
+	{
+		"nombre": "brocoli",
+		"cantidad":"5",
+		"precio_unitario":"300"
+	},
+	{
+		"nombre": "Arroz",
+		"cantidad":"12",
+		"precio_unitario":"800"
+	}	
+	],
+	[
+	{
+		"nombre": "CarnedeRes",
+		"cantidad":"4",
+		"precio_unitario":"5500"
+	},
+	{
+		"nombre": "Cafe",
+		"cantidad":"2",
+		"precio_unitario":"3500"
+	},
+	{
+		"nombre": "Uvas",
+		"cantidad":"4",
+		"precio_unitario":"2400"
+	}	
+	],
+	[
+	{
+		"nombre": "Pollo",
+		"cantidad":"3",
+		"precio_unitario":"3500"
+	},
+	{
+		"nombre": "Sandia",
+		"cantidad":"2",
+		"precio_unitario":"1500"
+	},
+	{
+		"nombre": "Cafe",
+		"cantidad":"10",
+		"precio_unitario":"3500"
+	}	
+	]
+	]
+}
